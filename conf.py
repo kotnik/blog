@@ -147,7 +147,7 @@ post_compilers = {
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
 DEPLOY_COMMANDS = [
-    'rsync -rav --delete output/* kotur@kotur.org:domains/blog.kotur.org/public_html',
+    'rsync -rav --delete output/* main.blog:www',
 ]
 
 # Where the output site should be located
