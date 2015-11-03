@@ -182,7 +182,7 @@ DEPLOY_COMMANDS = [
 # }
 
 FILTERS = {
-   ".css": ["css-html-js-minify.py --overwrite %s"],
+   ".css": ["css-html-js-minify.py --quiet --overwrite %s"],
 }
 
 # #############################################################################
