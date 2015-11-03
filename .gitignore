@@ -1,0 +1,7 @@
+*~
+*.pyc
+.doit.db
+output/*
+cache/*
+files/files/*
+HELP
