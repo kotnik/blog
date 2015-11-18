@@ -36,7 +36,7 @@ does everything. That is all there is to it: there is no installation.
 Let's create our first TLS certificate. I chose my
 [Pastebin](https://bin.kotur.org) as a guinea pig because it's the
 site only I use so it can take some downtime. Let's Encrypt is
-boasting how it can configure the webiste itself by fiddling your
+boasting how it can configure the website itself by fiddling your
 configuration files, but Nginx support is still experimental, and I
 actually prefer to run configuration I control. So, I will be using
 manual mode.
@@ -49,7 +49,7 @@ cd letsencrypt
 ```
 
 The script will tell you to put a hash to be reached from a certain
-URL in your webiste, and after you created that file, it will fetch it
+URL in your website, and after you created that file, it will fetch it
 and verify that you actualy do own the domain. Within seconds
 everything will be over and our new certificate will be located in
 `/etc/letsencrypt/live/bin.kotur.org`.
