@@ -38,7 +38,7 @@ Let's create our first TLS certificate. I chose my
 site only I use so it can take some downtime. Let's Encrypt is
 boasting how it can configure the webiste itself by fiddling your
 configuration files, but Nginx support is still experimental, and I
-actually prefer to run confguration I control. So, I will be using
+actually prefer to run configuration I control. So, I will be using
 manual mode.
 
 First, lets initiate certificate creation:
