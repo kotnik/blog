@@ -59,7 +59,9 @@ months. While that decision is debatable, it is super easy to automate
 certificate renewal: you just run that command again, and restart your
 webserver gracefuly.
 
-Since I use Puppet to version configuration of my servers, supporting these certificates is super easy. For example, this is a part of generated configuration:
+Since I use Puppet to version configuration of my servers, supporting
+these certificates is super easy. For example, this is a part of
+generated configuration:
 
 ```
 /etc/nginx/ssl.d# cat bin.kotur.org.conf 
@@ -98,4 +100,5 @@ At the end, here are the good and the bad.
 * Just look at the
   [issue queue](https://github.com/letsencrypt/letsencrypt/issues).
 
-I really enjoyed playing with it, and I can't wait for them to finally go live or to grant me developer preview access I applied for.
+I really enjoyed playing with it, and I can't wait for them to finally
+go live or to grant me developer preview access I applied for.
