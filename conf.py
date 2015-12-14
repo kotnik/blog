@@ -8,10 +8,10 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Nikola Kotur"
-BLOG_TITLE = "Nikola Kotur's blog"
+BLOG_TITLE = "Kotnik blogs"
 SITE_URL = "http://blog.kotur.org"
 BLOG_EMAIL = "nikola@kotur.org"
-BLOG_DESCRIPTION = " of thoughts and technicalities"
+BLOG_DESCRIPTION = " - thoughts and technicalities"
 
 # Nikola is multilingual!
 #
