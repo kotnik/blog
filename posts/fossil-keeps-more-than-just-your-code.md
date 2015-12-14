@@ -62,4 +62,4 @@ open http://localhost:8055
 
 After you click around the user interface you will get enough ideas, there's no need for me to give you mine. If you have, or track, a lot of Fossil repos you can use its `fossil htttp` command to have UI for all of them. Actually, [Arch's Fossil package](https://www.archlinux.org/packages/community/x86_64/fossil/) comes with Systemd units already ready for this setup. But I gave you the simple one too.
 
-This is not all there can be written about Fossil, be sure to check [the website](http://fossil-scm.org), but more importantly take some time to try it out, you might like it too. Git is not the answer to all questions.
+This is not all that can be written about Fossil, be sure to check [the website](http://fossil-scm.org), but more importantly take some time to try it out, you might like it too. Git is not the answer to all questions.
