@@ -31,7 +31,11 @@ I read a lot in Serbo-Croatian, also in French and other Slav languages. But I h
 
 **Algorithm is not the best solution**
 
-Many times I see recommended articles in categories that are simply not correct. Algorithm is crude and rude. It does not adapt, I don't feel like interacting with the AI but with the big if/else construct.
+Many times I see recommended articles in categories that are simply not correct. Look at this example:
+
+<img src="/files/pocket-inf-650.png">
+
+Algorithm is crude and rude. It does not adapt, I don't feel like interacting with the AI but with the big if/else construct.
 
 **Permanent Copy**
 
