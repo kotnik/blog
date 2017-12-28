@@ -39,7 +39,7 @@ Algorithm is crude and rude. It does not adapt, I don't feel like interacting wi
 
 **Permanent Copy**
 
-In volatile web world you would pay for the Pocket service because it promises archiving of all the articles you have read forever. So, if the site you originally read it goes offline, you would still have the possibility to read the words that you liked or that have inspired you, even years after. The only issue is that it doesn't work. Due to the stupid bug, you can not read a ermanent copy of any of your saved articles unless you are technically savvy enough to open the web browser inspector and get the correct URL. And I don't even want to go through why having plain-text unprotected URL is a bad idea after all.
+In volatile web world you would pay for the Pocket service because it promises archiving of all the articles you have read forever. So, if the site you originally read it goes offline, you would still have the possibility to read the words that you liked or that have inspired you, even years after. The only issue is that it doesn't work. Due to the stupid bug, you can not read a permanent copy of any of your saved articles unless you are technically savvy enough to open the web browser inspector and get the correct URL. And I don't even want to go through why having plain-text unprotected URL is a bad idea after all.
 
 So, that is it.
 
