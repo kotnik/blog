@@ -1,6 +1,6 @@
 <!-- 
 .. link: 
-.. description: A Little Life by Hanya Yanagihara is my favourite book of year 2017.
+.. description: A Little Life by Hanya Yanagihara is my favorite book of year 2017.
 .. tags: books, 2017
 .. date: 2018/01/05 22:11:21
 .. title: The best of 2017: Books
