@@ -15,7 +15,7 @@ This long article from Dominic Cummings, the coordinator of the Brexit campaign,
 
 It's fascinating and very unique. Because here, the man behind the Brexit, goes very deeply into his motivation to join and lead the campaign, and describes tactics employeed to very minute detail. I don't know of any other similar document that goes to such depth, espeically regarding the tactics, at least nothing contemporary.
 
-This is the most detailed and reveailing look into modern political compaing.
+This is the most detailed and reveailing look into modern political campaing.
 
 But, its uniqueness is not just in that. When people win political victory they always hide their tools and try to impose impression of political all-knowing competence, and that is wise to do. Or they hide how their reached the victory so their opponents can not steal their ideas, or use them to prepare counter attacks. But not here.
 
