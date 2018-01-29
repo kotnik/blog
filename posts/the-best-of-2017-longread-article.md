@@ -17,6 +17,6 @@ It's fascinating and very unique. Because here, the man behind the Brexit, goes 
 
 This is the most detailed and reveailing look into modern political compaing.
 
-But, it's uniqueness is not just in that. When people win political victory they always hide their tools and try to impose impression of political all-knowing competence, and that is wise to do. Or they hide how their reached the victory so their opponents can not steal their ideas, or use them to prepare counter attacks. But not here.
+But, its uniqueness is not just in that. When people win political victory they always hide their tools and try to impose impression of political all-knowing competence, and that is wise to do. Or they hide how their reached the victory so their opponents can not steal their ideas, or use them to prepare counter attacks. But not here.
 
 After reading this article I was reminded of an old quote from Otto von Bismarck how _"politics is like sasuages, you don't watch any of them being made"_. But sure is very interesting to see how the world really works.
