@@ -13,7 +13,7 @@
 
 This long article from Dominic Cummings, the coordinator of the Brexit campaign, was the best article I read in year 2017. It's really long, maybe I should call it a novella.
 
-It's fascinating and very unique. Beacuse here, the man behind the Brexit, goes very deeply into his motivation to join and lead the campaign, and describes tactics employeed to very minute detail. I don't know of any other similar document that goes to such depth, espeically regarding the tactics, at least nothing contemporary.
+It's fascinating and very unique. Because here, the man behind the Brexit, goes very deeply into his motivation to join and lead the campaign, and describes tactics employeed to very minute detail. I don't know of any other similar document that goes to such depth, espeically regarding the tactics, at least nothing contemporary.
 
 This is the most detailed and reveailing look into modern political compaing.
 
